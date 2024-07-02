@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Amazon Clone Website](https://github.com/Varshini11113/Amazon-Clone_Varshini)
 
-- 🌱 I’m currently learning **JAVA, JavaScript, ReactJS, MERN stack development**
+- 🌱 I’m currently learning ** JavaScript, ReactJS, MERN stack development**
 
 - 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1mjC6-bGaKMbt5HkR9ljnkLFNxZ601IVr?usp=drive_link](https://drive.google.com/drive/folders/1mjC6-bGaKMbt5HkR9ljnkLFNxZ601IVr?usp=drive_link)
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Leetcode problem solving**
 
-- 📫 How to reach me **varshinimurugesan5@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing](https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing)
 
