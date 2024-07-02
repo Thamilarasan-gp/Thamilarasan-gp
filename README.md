@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ** JavaScript, ReactJS, MERN stack development**
 
-- 👨‍💻 All of my certificates are available at [https://drive.google.com/file/d/1ww_aTaNYRwdmZTTZX34-YYDGffMrB4sd/view?usp=drive_link](https://drive.google.com/file/d/1ww_aTaNYRwdmZTTZX34-YYDGffMrB4sd/view?usp=drive_link)
+- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link](https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link)
 
 - 📝 I regularly write articles on [DSA](DSA)
 
