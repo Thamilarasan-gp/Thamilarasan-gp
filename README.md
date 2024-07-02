@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamilarasan!;" />
 </h1>
 
-<h3 align="center">Passionate Computer Science Student | Code Explorer | Web Wizard | Student Leader</h3>
+<h3 align="center">Passionate Information Technology Student | Code Explorer | Web Wizard | Student Leader</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini11113&label=Profile%20views&color=0e75b6&style=flat" alt="varshini11113" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini11113&label=Profile%20views&color=0e75b6&style=flat" alt="Thamilarasan" /> </p>
 
-- 🔭 I’m currently working on [Amazon Clone Website](https://github.com/Varshini11113/Amazon-Clone_Varshini)
+- 🔭 I’m currently working on [Spot Parking and Saver System](https://github.com/Thamilarasangp/Amazon-Clone_Thamilarasan)
 
 - 🌱 I’m currently learning ** JavaScript, ReactJS, MERN stack development**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me ****
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing](https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link](https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link)
 
 - ⚡ Fun fact **Did you know? I write code faster than I serve a killer table tennis shot!**
 
