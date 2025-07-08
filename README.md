@@ -1,56 +1,138 @@
-🚀 Thamilarasan GP | Full Stack Alchemist
-diff
+# 🚀 Thamilarasan GP | Full-Stack Developer
+
+```diff
 +---------------------------------------------------------------------+
-|  ████████╗██╗  ██╗ █████╗ ███╗   ███╗██╗██╗     ██████╗  █████╗     |
-|  ╚══██╔══╝██║  ██║██╔══██╗████╗ ████║██║██║     ██╔══██╗██╔══██╗    |
-+     ██║   ███████║███████║██╔████╔██║██║██║     ██████╔╝███████║    +
-|     ██║   ██╔══██║██╔══██║██║╚██╔╝██║██║██║     ██╔══██╗██╔══██║    |
-|     ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║██║███████╗██║  ██║██║  ██║    |
-+     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    +
+|  INNOVATIVE CODER | PROBLEM SOLVER | TECH ENTHUSIAST | MERN STACK  |
 +---------------------------------------------------------------------+
-|  Transforming coffee into code since 2020 | MERN Stack Specialist   |
-+---------------------------------------------------------------------+
-<div align="center"> <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/main/assets/retro-wave.gif" width="800px" alt="Retro wave divider"> </div>
-🧪 Tech Potion
-lua
-vim.opt.tech_stack = {
-  languages = {"C", "C++", "Java", "Python", "JavaScript", "TypeScript"},
-  frontend = {"React", "Redux", "HTML5", "CSS3", "Tailwind", "Framer Motion"},
-  backend = {"Node.js", "Express", "NestJS", "GraphQL"},
-  databases = {"MongoDB", "MySQL", "Firebase"},
-  devops = {"Docker", "AWS", "CI/CD"},
-  tools = {"Git", "Figma", "Postman", "VSCode", "Neovim"}
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/tech-wave.svg" width="100%"/>
+</div>
+
+## 🧑‍💻 Developer DNA
+
+```typescript
+interface Developer {
+  name: "Thamilarasan GP";
+  role: "Full-Stack Engineer";
+  architecture: ["MERN", "Serverless"];
+  languages: ["JavaScript", "TypeScript", "Python", "Java"];
+  frontend: ["React", "Next.js", "Tailwind", "Framer Motion"];
+  backend: ["Node.js", "Express", "NestJS", "Serverless"];
+  databases: ["MongoDB", "PostgreSQL", "Firebase"];
+  devOps: ["Docker", "AWS", "Vercel", "CI/CD"];
+  currentFocus: "Building Scalable Microservices";
+  funFact: "Can debug code while playing table tennis 🏓";
 }
-<div align="center"> <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/main/assets/retro-computer.gif" width="300px" alt="Retro computer"> </div>
-🏗️ Current Build
-json
-{
-  "project": "Spot Parking & Saver System",
-  "stack": ["MERN", "Mapbox GL", "TensorFlow.js"],
-  "features": [
-    "Real-time parking availability",
-    "AI-powered spot prediction",
-    "Dynamic pricing engine"
-  ],
-  "status": "🚧 Under active development"
-}
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamilarasan-gp&theme=radical&hide_border=true&background=1a1b27&stroke=ff79c6&ring=bd93f9&fire=ff5555&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=50fa7b&sideLabels=8be9fd&dates=6272a4" width="48%"> </div>
-📜 Code Chronicles
-diff
-# Today's Development Log
-+ Implemented real-time parking spot detection using YOLOv5
-! Fixed memory leak in the WebSocket server
-- Need to optimize MongoDB aggregation pipeline
-<div align="center"> <img src="https://leetcard.jacoblin.cool/Thamilarasan-gp?theme=dark&font=Source%20Code%20Pro&ext=contest" width="60%" alt="LeetCode stats"> </div>
-🌌 Cosmic Connections
-<div align="center"> <a href="https://linkedin.com/in/thamilarasan-gp"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://leetcode.com/u/thamilarasangp/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="mailto:thamilarasangp@example.com"> <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://thamilarasangp.dev"> <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"> </a> </div><div align="center"> <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/main/assets/retro-divider.gif" width="800px" alt="Retro divider"> </div>
-diff
-+---------------------------------------------------------------------+
-|  "First, solve the problem. Then, write the code." - John Johnson   |
-+---------------------------------------------------------------------+
-|  🔭 Currently exploring: WebAssembly & Rust                         |
-|  🌱 Currently growing: System Design & Microservices                |
-|  ⚡ Fun fact: I can solve Rubik's cube in under 2 minutes!          |
-+---------------------------------------------------------------------+
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26yvlak5ess2gn3q6k5r4opdi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Now Playing"> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Thamilarasan-gp&label=PROFILE+VISITS&color=ff79c6&style=flat-square" alt="Profile views"> </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/main/assets/retro-terminal.gif" width="600px" alt="Retro terminal"> <p>🚀 Powered by curiosity and excessive caffeine</p> </div>
+```
+
+## 🛠️ Tech Stack 3.0
+
+<div align="center">
+  
+### **Core Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
+
+### **Frontend Galaxy**
+![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=plastic&logo=framer&logoColor=white)
+
+### **Backend Universe**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=plastic&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+
+### **Database Cosmos**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Tech Stack | Description | Live Demo |
+|---------|------------|-------------|-----------|
+| **Spot Parking AI** | React, Node.js, TensorFlow | Smart parking allocation system | [View Demo](https://parkeasy.app) |
+| **CodeCollab** | Next.js, Socket.io | Real-time collaborative IDE | [Try Now](https://codecollab.tech) |
+| **HealthTrack** | Flutter, Firebase | AI-powered health monitoring | [App Store](https://healthtrack.io) |
+
+</div>
+
+## 📊 Development Analytics
+
+<div align="center">
+  
+```mermaid
+pie
+    title Weekly Development Breakdown
+    "React Components" : 35
+    "API Development" : 25
+    "Database Design" : 20
+    "DevOps" : 15
+    "Technical Writing" : 5
+```
+
+</div>
+
+<div align="center">
+  
+![3D Contribution Map](https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/contribution-grid-snake.svg)
+
+</div>
+
+## 🏆 Competitive Coding
+
+<div align="center">
+  
+| Platform | Rating | Top Percentile |
+|----------|--------|----------------|
+| LeetCode | 1850+ | Top 5% |
+| CodeChef | 4★ | Top 10% |
+| CodeForces | Specialist | Top 15% |
+
+</div>
+
+## 🌐 Digital Presence
+
+<div align="center">
+  
+[![Developer Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thamilarasan.dev)
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thamilarasangp)
+[![LinkedIn Network](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamilarasan-gp)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thamilarasan-gp)
+
+</div>
+
+## 💬 Developer Mantra
+
+<div align="center">
+  
+> "First solve the problem, then write the code."  
+> "The best error message is the one that never shows up."  
+> "Clean code always looks like it was written by someone who cares."  
+
+</div>
+
+<div align="center">
+  
+![Neon Divider](https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/neon-divider.svg)
+
+</div>
+
+<div align="center">
+  
+```diff
+! Let's build something extraordinary together. Reach out for collaborations!
+```
+
+</div>
