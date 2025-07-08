@@ -1,88 +1,38 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hi+There!+👋;I'm+Thamilarasan+Prakasam!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamilarasan!;" />
 </h1>
 
-<h3 align="center">Final-Year IT Student | MERN Stack Developer | LeetCode Enthusiast</h3>
+<h3 align="center">Passionate Information Technology Student | Code Explorer | Web Wizard</h3>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini11113&label=Profile%20views&color=0e75b6&style=flat" alt="Thamilarasan" /> </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+scalable+solutions;500%2B+LeetCode+problems;Open+source+contributor" alt="Typing SVG" /></a>
+- 🔭 I’m currently working on [Spot Parking and Saver System](https://github.com/ParkEasy-App/SPBS)
+
+- 🌱 I’m currently learning ** JavaScript, ReactJS, MERN stack development**
+
+- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link](https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link)
+
+- 📝 I regularly write articles on [DSA](DSA)
+
+- 💬 Ask me about **Leetcode problem solving**
+
+- 📫 How to reach me ****
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link](https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link)
+
+- ⚡ Fun fact **Did you know? I write code faster than I serve a killer table tennis shot!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thamilarasan-gp" height="30" width="40" /></a>
+<a href="https://codesandbox.com/varshinimurugesan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="varshinimurugesan5" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/varshini11_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/varshini11_11/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/sece_mcs166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sece_mcs166" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/varshinimuruges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/varshinimuruges1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/thamilarasangp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/varshini11113/" height="30" width="40" /></a>
+<a href="https://discord.gg/VARSHINI M#9202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VARSHINI M#9202" height="30" width="40" /></a>
 </p>
-
-<div align="center">
-  
-![GitHub Banner](https://github.com/ThamilarasanPrakasam/ThamilarasanPrakasam/assets/yourID/yourGif.gif)
-
-</div>
-
----
-
-## 🔥 About Me
-
-```yaml
-name: Thamilarasan Prakasam
-currently:
-  - � Final year IT student at SECE
-  - 🚀 Building Smart Parking & Safety Systems
-  - 📚 Mastering Advanced JavaScript & Backend APIs
-  - 🧠 Solved 500+ LeetCode problems
-skills:
-  - Languages: C, C++, Java, Python, JavaScript
-  - Frontend: HTML5, CSS3, React.js
-  - Backend: Node.js, Express.js
-  - Databases: MongoDB, MySQL
-  - Mobile: React Native
-  - Tools: Git, VS Code, Figma
-📊 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=thamilarasangp&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
-https://streak-stats.demolab.com?user=thamilarasangp&theme=radical&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=thamilarasangp&layout=compact&theme=radical&hide_border=true
-
-</div>
-🏆 LeetCode Stats
-<div align="center">
-https://leetcard.jacoblin.cool/thamilarasangp?theme=dark&font=Source%2520Code%2520Pro&ext=contest
-
-</div>
-🛠️ Tech Stack
-<div align="center">
-Languages
-https://img.shields.io/badge/c-%252300599C.svg?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
-
-Frontend
-https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/css3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
-
-Backend
-https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB
-
-Databases
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/mysql-%252300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-
-Tools
-https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/VS%2520Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-
-</div>
-📫 Connect With Me
-<div align="center">
-https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
-https://img.shields.io/badge/CodeChef-%25235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white
-https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-</div>
-<div align="center">
-https://komarev.com/ghpvc/?username=thamilarasangp&color=blueviolet&style=flat-square
-
-</div> ```
+<h3 align="left">My Leetcode Performance</h3>
+<p><img align="center" src="https://leetcard.jacoblin.cool/thamilarasangp?ext=heatmap" alt="varshini11113" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
