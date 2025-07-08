@@ -1,66 +1,136 @@
-<div align="center">
-  
-  # 🎨 THAMILARASAN GP
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&height=80&lines=🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;🎯+MERN+Stack+Specialist;⚡+Code+Craftsman" alt="Typing SVG" />
-  
-  <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 20px; padding: 2rem; margin: 2rem 0; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
-    <img src="https://github.com/Thamilarasan-gp.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #1E3A8A; box-shadow: 0 10px 30px rgba(30, 58, 138, 0.3);" alt="Profile Picture" />
-  </div>
-  
-</div>
+# **DEVELOPER MAGAZINE**
+## *Issue #2024 - The Modern Full Stack Developer*
 
 ---
 
-## 📋 **DEVELOPER PROFILE**
-
 <div align="center">
   
-  ```json
-  {
-    "name": "Thamilarasan GP",
-    "role": "Full Stack Developer",
-    "location": "Tamil Nadu, India 🇮🇳",
-    "education": "Information Technology Student",
-    "currentProject": "Spot Parking & Saver System",
-    "learning": ["JavaScript", "ReactJS", "MERN Stack"],
-    "expertise": ["DSA", "Problem Solving", "Web Development"],
-    "hobby": "Table Tennis 🏓",
-    "motto": "Code faster than a killer table tennis shot!"
-  }
-  ```
+  **FEATURING**
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=800&height=70&lines=FULL+STACK+DEVELOPER;PROBLEM+SOLVER;CODE+ARCHITECT;TECH+INNOVATOR" alt="Typing SVG" />
+  
+  ---
+  
+  ### **"Crafting Digital Experiences with Precision and Passion"**
+  
+  ---
   
 </div>
 
+## **📰 EDITORIAL SPOTLIGHT**
+
+<table width="100%" cellspacing="0" cellpadding="20" style="border-collapse: collapse;">
+  <tr>
+    <td width="60%" style="vertical-align: top; padding-right: 30px;">
+      <h3><strong>🎯 DEVELOPER PROFILE</strong></h3>
+      <p style="font-size: 16px; line-height: 1.6; color: #2C3E50; text-align: justify;">
+        <strong>Name:</strong> Professional Developer<br>
+        <strong>Specialization:</strong> Full Stack Development<br>
+        <strong>Location:</strong> Global Remote<br>
+        <strong>Experience:</strong> Modern Web Technologies<br>
+        <strong>Focus:</strong> MERN Stack & Problem Solving<br>
+        <strong>Mission:</strong> Building scalable, user-centric applications
+      </p>
+      
+      <blockquote style="border-left: 4px solid #3498DB; padding-left: 20px; margin: 20px 0; font-style: italic; color: #34495E;">
+        "Clean code is not written by following a set of rules. Clean code is written by someone who cares about the craft."
+      </blockquote>
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
+        <h4 style="margin: 0 0 15px 0;">⚡ QUICK STATS</h4>
+        <p style="margin: 5px 0;"><strong>🚀 Projects:</strong> 15+</p>
+        <p style="margin: 5px 0;"><strong>💻 Languages:</strong> 6</p>
+        <p style="margin: 5px 0;"><strong>🛠️ Frameworks:</strong> 8</p>
+        <p style="margin: 5px 0;"><strong>📊 Contributions:</strong> 500+</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🛠️ **TECHNICAL ARSENAL**
+## **🛠️ TECHNOLOGY ARSENAL**
 
 <div align="center">
   
-  <table style="border-collapse: separate; border-spacing: 10px;">
+  ### **PROGRAMMING LANGUAGES**
+  
+  <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
     <tr>
-      <td align="center" style="background: linear-gradient(145deg, #ff6b6b, #ee5a52); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages" /><br>
-        <strong style="color: white;">Programming Languages</strong>
+      <td align="center" style="padding: 15px; background: #E8F4FD; border-radius: 10px; border: 1px solid #3498DB;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+        <br><strong>JavaScript</strong>
+        <br><small>ES6+, Modern Syntax</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #FFF3E0; border-radius: 10px; border: 1px solid #FF9800;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+        <br><strong>Python</strong>
+        <br><small>Data Structures, Algorithms</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #F3E5F5; border-radius: 10px; border: 1px solid #9C27B0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+        <br><strong>Java</strong>
+        <br><small>Object-Oriented Programming</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #E8F5E8; border-radius: 10px; border: 1px solid #4CAF50;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+        <br><strong>C++</strong>
+        <br><small>System Programming</small>
       </td>
     </tr>
+  </table>
+  
+  ### **FRONTEND TECHNOLOGIES**
+  
+  <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
     <tr>
-      <td align="center" style="background: linear-gradient(145deg, #4ecdc4, #45b7aa); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
-        <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="Frontend" /><br>
-        <strong style="color: white;">Frontend Development</strong>
+      <td align="center" style="padding: 15px; background: #E3F2FD; border-radius: 10px; border: 1px solid #2196F3;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+        <br><strong>React</strong>
+        <br><small>Component-Based UI</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #FFF8E1; border-radius: 10px; border: 1px solid #FFC107;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+        <br><strong>HTML5</strong>
+        <br><small>Semantic Markup</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #E8F5E8; border-radius: 10px; border: 1px solid #4CAF50;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+        <br><strong>CSS3</strong>
+        <br><small>Modern Styling</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #F3E5F5; border-radius: 10px; border: 1px solid #9C27B0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+        <br><strong>Bootstrap</strong>
+        <br><small>Responsive Design</small>
       </td>
     </tr>
+  </table>
+  
+  ### **BACKEND & DATABASE**
+  
+  <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
     <tr>
-      <td align="center" style="background: linear-gradient(145deg, #45b7d1, #3a9bc1); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" /><br>
-        <strong style="color: white;">Backend & Database</strong>
+      <td align="center" style="padding: 15px; background: #E8F5E8; border-radius: 10px; border: 1px solid #4CAF50;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+        <br><strong>Node.js</strong>
+        <br><small>Server-Side JavaScript</small>
       </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(145deg, #dda0dd, #c8a2c8); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
-        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Tools" /><br>
-        <strong style="color: white;">Development Tools</strong>
+      <td align="center" style="padding: 15px; background: #F3E5F5; border-radius: 10px; border: 1px solid #9C27B0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
+        <br><strong>Express</strong>
+        <br><small>Web Framework</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #E8F5E8; border-radius: 10px; border: 1px solid #4CAF50;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+        <br><strong>MongoDB</strong>
+        <br><small>NoSQL Database</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #E3F2FD; border-radius: 10px; border: 1px solid #2196F3;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+        <br><strong>MySQL</strong>
+        <br><small>Relational Database</small>
       </td>
     </tr>
   </table>
@@ -69,117 +139,122 @@
 
 ---
 
-## 🔥 **FEATURED PROJECT**
+## **📊 PERFORMANCE METRICS**
 
 <div align="center">
   
-  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 20px; padding: 2rem; margin: 2rem 0; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
-    <h3 style="color: white; margin-bottom: 1rem;">🚗 Spot Parking & Saver System</h3>
-    <p style="color: #f0f4f8; font-size: 1.1rem;">Smart parking solution with real-time spot detection and reservation system</p>
-    <a href="https://github.com/ParkEasy-App/SPBS" style="display: inline-block; background: linear-gradient(145deg, #ff6b6b, #ee5a52); color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin-top: 1rem; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
-      View Project →
-    </a>
+  <table width="100%" cellspacing="10" cellpadding="0">
+    <tr>
+      <td width="50%" align="center">
+        <div style="background: #F8F9FA; border: 1px solid #E9ECEF; border-radius: 10px; padding: 20px;">
+          <h4 style="margin: 0 0 15px 0; color: #2C3E50;">📈 GitHub Statistics</h4>
+          <img src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=default&hide_border=true&bg_color=F8F9FA&title_color=2C3E50&icon_color=3498DB&text_color=2C3E50" alt="GitHub Stats" />
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="background: #F8F9FA; border: 1px solid #E9ECEF; border-radius: 10px; padding: 20px;">
+          <h4 style="margin: 0 0 15px 0; color: #2C3E50;">🔥 Contribution Streak</h4>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamilarasan-gp&theme=default&hide_border=true&background=F8F9FA&stroke=2C3E50&ring=3498DB&fire=E74C3C&currStreakNum=2C3E50&sideNums=2C3E50&currStreakLabel=3498DB&sideLabels=2C3E50&dates=2C3E50" alt="GitHub Streak" />
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <div style="background: #F8F9FA; border: 1px solid #E9ECEF; border-radius: 10px; padding: 20px; margin: 20px 0;">
+    <h4 style="margin: 0 0 15px 0; color: #2C3E50;">💻 Most Used Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamilarasan-gp&layout=compact&theme=default&hide_border=true&bg_color=F8F9FA&title_color=2C3E50&text_color=2C3E50" alt="Top Languages" />
   </div>
   
 </div>
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## **🏆 CODING EXCELLENCE**
 
 <div align="center">
   
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=prussian&hide_border=true&bg_color=f0f4f8&title_color=1E3A8A&icon_color=667eea&text_color=2D3748" alt="GitHub Stats" />
-    </div>
-    <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamilarasan-gp&theme=prussian&hide_border=true&background=f0f4f8&stroke=1E3A8A&ring=667eea&fire=ff6b6b&currStreakNum=2D3748&sideNums=2D3748&currStreakLabel=1E3A8A&sideLabels=2D3748&dates=2D3748" alt="GitHub Streak" />
-    </div>
-  </div>
-  
-  <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; margin: 2rem 0; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamilarasan-gp&layout=compact&theme=prussian&hide_border=true&bg_color=f0f4f8&title_color=1E3A8A&text_color=2D3748" alt="Top Languages" />
-  </div>
+  <table width="100%" cellspacing="0" cellpadding="20" style="border-collapse: collapse;">
+    <tr>
+      <td width="40%" style="vertical-align: top;">
+        <h3><strong>🎯 PROBLEM SOLVING</strong></h3>
+        <ul style="list-style: none; padding: 0;">
+          <li style="padding: 8px 0; border-bottom: 1px solid #E9ECEF;">✅ Data Structures & Algorithms</li>
+          <li style="padding: 8px 0; border-bottom: 1px solid #E9ECEF;">✅ System Design Patterns</li>
+          <li style="padding: 8px 0; border-bottom: 1px solid #E9ECEF;">✅ Code Optimization</li>
+          <li style="padding: 8px 0; border-bottom: 1px solid #E9ECEF;">✅ Testing & Debugging</li>
+          <li style="padding: 8px 0;">✅ Performance Tuning</li>
+        </ul>
+      </td>
+      <td width="60%" style="vertical-align: top; text-align: center;">
+        <div style="background: linear-gradient(135deg, #FFA116 0%, #FF8C00 100%); padding: 20px; border-radius: 15px;">
+          <h4 style="margin: 0 0 15px 0; color: white;">🏅 LEETCODE PERFORMANCE</h4>
+          <img src="https://leetcard.jacoblin.cool/thamilarasangp?theme=light&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px; max-width: 100%;" />
+        </div>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
 ---
 
-## 🏆 **LEETCODE MASTERY**
+## **📱 PROFESSIONAL NETWORK**
 
 <div align="center">
   
-  <div style="background: linear-gradient(145deg, #ff9a56, #ff6b35); border-radius: 20px; padding: 2rem; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
-    <img src="https://leetcard.jacoblin.cool/thamilarasangp?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
-  </div>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td align="center" style="padding: 15px; background: #0077B5; color: white; border-radius: 10px; text-decoration: none;">
+        <a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/" style="color: white; text-decoration: none; display: block;">
+          <strong>🔗 LinkedIn</strong><br>
+          <small>Professional Network</small>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; background: #FFA116; color: white; border-radius: 10px;">
+        <a href="https://leetcode.com/u/thamilarasangp/" style="color: white; text-decoration: none; display: block;">
+          <strong>⚡ LeetCode</strong><br>
+          <small>Problem Solving</small>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; background: #5B4638; color: white; border-radius: 10px;">
+        <a href="https://www.codechef.com/users/sece_mcs166" style="color: white; text-decoration: none; display: block;">
+          <strong>🍳 CodeChef</strong><br>
+          <small>Competitive Programming</small>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; background: #2EC866; color: white; border-radius: 10px;">
+        <a href="https://www.hackerrank.com/varshinimuruges1" style="color: white; text-decoration: none; display: block;">
+          <strong>💚 HackerRank</strong><br>
+          <small>Skill Assessment</small>
+        </a>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
 ---
 
-## 📈 **CONTRIBUTION HEATMAP**
+## **📄 PROFESSIONAL DOCUMENTS**
 
 <div align="center">
   
-  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 20px; padding: 2rem; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thamilarasan-gp&theme=github-compact&bg_color=667eea&color=ffffff&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 15px;" />
-  </div>
-  
-</div>
-
----
-
-## 🌐 **CONNECT WITH ME**
-
-<div align="center">
-  
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 2rem 0;">
-    <a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/" style="display: inline-block; background: linear-gradient(145deg, #0077b5, #005885); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
-      LinkedIn
-    </a>
-    <a href="https://leetcode.com/u/thamilarasangp/" style="display: inline-block; background: linear-gradient(145deg, #ffa116, #cc8114); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
-      LeetCode
-    </a>
-    <a href="https://www.codechef.com/users/sece_mcs166" style="display: inline-block; background: linear-gradient(145deg, #5b4638, #4a3a2e); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
-      CodeChef
-    </a>
-    <a href="https://www.hackerrank.com/varshinimuruges1" style="display: inline-block; background: linear-gradient(145deg, #2ec866, #25a054); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
-      HackerRank
-    </a>
-    <a href="https://www.instagram.com/varshini11_11/" style="display: inline-block; background: linear-gradient(145deg, #e4405f, #b73248); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
-      Instagram
-    </a>
-  </div>
-  
-</div>
-
----
-
-## 📄 **DOCUMENTS & RESOURCES**
-
-<div align="center">
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 2rem 0;">
-    <a href="https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link" style="display: inline-block; background: linear-gradient(145deg, #ff5722, #cc4518); color: white; padding: 15px 30px; border-radius: 15px; text-decoration: none; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-      📄 Resume
-    </a>
-    <a href="https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link" style="display: inline-block; background: linear-gradient(145deg, #4caf50, #3d8b40); color: white; padding: 15px 30px; border-radius: 15px; text-decoration: none; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-      🏆 Certificates
-    </a>
-  </div>
-  
-</div>
-
----
-
-## 💭 **DAILY INSPIRATION**
-
-<div align="center">
-  
-  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 20px; padding: 2rem; margin: 2rem 0; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Random Dev Quote" style="border-radius: 15px;" />
-  </div>
+  <table style="width: 60%; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td align="center" style="padding: 20px; background: #E74C3C; color: white; border-radius: 10px;">
+        <a href="https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link" style="color: white; text-decoration: none; display: block;">
+          <strong>📄 RESUME</strong><br>
+          <small>Professional Experience</small>
+        </a>
+      </td>
+      <td align="center" style="padding: 20px; background: #27AE60; color: white; border-radius: 10px;">
+        <a href="https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link" style="color: white; text-decoration: none; display: block;">
+          <strong>🏆 CERTIFICATES</strong><br>
+          <small>Achievements & Skills</small>
+        </a>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
@@ -187,13 +262,15 @@
 
 <div align="center">
   
-  <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; margin: 2rem 0; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-    <img src="https://komarev.com/ghpvc/?username=Thamilarasan-gp&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  **DEVELOPER MAGAZINE** | *Issue #2024*
+  
+  <div style="background: #2C3E50; color: white; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <strong>📊 PROFILE ANALYTICS</strong><br>
+    <img src="https://komarev.com/ghpvc/?username=Thamilarasan-gp&color=3498DB&style=flat-square&label=Magazine+Readers" alt="Profile Views" style="margin: 10px 0;" />
   </div>
   
-  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 15px; padding: 1.5rem; margin: 2rem 0; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
-    <h3 style="color: white; margin: 0;">⭐ Made with ❤️ by Thamilarasan GP</h3>
-    <p style="color: #f0f4f8; margin: 0.5rem 0 0 0;">Let's build something amazing together!</p>
-  </div>
+  ---
+  
+  <em>© 2024 Developer Magazine. Crafted with precision for the modern developer community.</em>
   
 </div>
