@@ -1,138 +1,199 @@
-# 🚀 Thamilarasan GP | Full-Stack Developer
-
-```diff
-+---------------------------------------------------------------------+
-|  INNOVATIVE CODER | PROBLEM SOLVER | TECH ENTHUSIAST | MERN STACK  |
-+---------------------------------------------------------------------+
-```
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/tech-wave.svg" width="100%"/>
+  
+  # 🎨 THAMILARASAN GP
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&height=80&lines=🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;🎯+MERN+Stack+Specialist;⚡+Code+Craftsman" alt="Typing SVG" />
+  
+  <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 20px; padding: 2rem; margin: 2rem 0; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+    <img src="https://github.com/Thamilarasan-gp.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #1E3A8A; box-shadow: 0 10px 30px rgba(30, 58, 138, 0.3);" alt="Profile Picture" />
+  </div>
+  
 </div>
 
-## 🧑‍💻 Developer DNA
+---
 
-```typescript
-interface Developer {
-  name: "Thamilarasan GP";
-  role: "Full-Stack Engineer";
-  architecture: ["MERN", "Serverless"];
-  languages: ["JavaScript", "TypeScript", "Python", "Java"];
-  frontend: ["React", "Next.js", "Tailwind", "Framer Motion"];
-  backend: ["Node.js", "Express", "NestJS", "Serverless"];
-  databases: ["MongoDB", "PostgreSQL", "Firebase"];
-  devOps: ["Docker", "AWS", "Vercel", "CI/CD"];
-  currentFocus: "Building Scalable Microservices";
-  funFact: "Can debug code while playing table tennis 🏓";
-}
-```
-
-## 🛠️ Tech Stack 3.0
+## 📋 **DEVELOPER PROFILE**
 
 <div align="center">
   
-### **Core Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
-
-### **Frontend Galaxy**
-![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=plastic&logo=framer&logoColor=white)
-
-### **Backend Universe**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=plastic&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-
-### **Database Cosmos**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
-
+  ```json
+  {
+    "name": "Thamilarasan GP",
+    "role": "Full Stack Developer",
+    "location": "Tamil Nadu, India 🇮🇳",
+    "education": "Information Technology Student",
+    "currentProject": "Spot Parking & Saver System",
+    "learning": ["JavaScript", "ReactJS", "MERN Stack"],
+    "expertise": ["DSA", "Problem Solving", "Web Development"],
+    "hobby": "Table Tennis 🏓",
+    "motto": "Code faster than a killer table tennis shot!"
+  }
+  ```
+  
 </div>
 
-## 🚀 Featured Projects
+---
+
+## 🛠️ **TECHNICAL ARSENAL**
 
 <div align="center">
   
-| Project | Tech Stack | Description | Live Demo |
-|---------|------------|-------------|-----------|
-| **Spot Parking AI** | React, Node.js, TensorFlow | Smart parking allocation system | [View Demo](https://parkeasy.app) |
-| **CodeCollab** | Next.js, Socket.io | Real-time collaborative IDE | [Try Now](https://codecollab.tech) |
-| **HealthTrack** | Flutter, Firebase | AI-powered health monitoring | [App Store](https://healthtrack.io) |
-
+  <table style="border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(145deg, #ff6b6b, #ee5a52); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages" /><br>
+        <strong style="color: white;">Programming Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: linear-gradient(145deg, #4ecdc4, #45b7aa); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
+        <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="Frontend" /><br>
+        <strong style="color: white;">Frontend Development</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: linear-gradient(145deg, #45b7d1, #3a9bc1); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" /><br>
+        <strong style="color: white;">Backend & Database</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: linear-gradient(145deg, #dda0dd, #c8a2c8); border-radius: 15px; padding: 15px; box-shadow: 8px 8px 16px #d1d9e0, -8px -8px 16px #ffffff;">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Tools" /><br>
+        <strong style="color: white;">Development Tools</strong>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
-## 📊 Development Analytics
+---
+
+## 🔥 **FEATURED PROJECT**
 
 <div align="center">
   
-```mermaid
-pie
-    title Weekly Development Breakdown
-    "React Components" : 35
-    "API Development" : 25
-    "Database Design" : 20
-    "DevOps" : 15
-    "Technical Writing" : 5
-```
-
+  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 20px; padding: 2rem; margin: 2rem 0; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+    <h3 style="color: white; margin-bottom: 1rem;">🚗 Spot Parking & Saver System</h3>
+    <p style="color: #f0f4f8; font-size: 1.1rem;">Smart parking solution with real-time spot detection and reservation system</p>
+    <a href="https://github.com/ParkEasy-App/SPBS" style="display: inline-block; background: linear-gradient(145deg, #ff6b6b, #ee5a52); color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin-top: 1rem; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
+      View Project →
+    </a>
+  </div>
+  
 </div>
+
+---
+
+## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
   
-![3D Contribution Map](https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/contribution-grid-snake.svg)
-
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=prussian&hide_border=true&bg_color=f0f4f8&title_color=1E3A8A&icon_color=667eea&text_color=2D3748" alt="GitHub Stats" />
+    </div>
+    <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamilarasan-gp&theme=prussian&hide_border=true&background=f0f4f8&stroke=1E3A8A&ring=667eea&fire=ff6b6b&currStreakNum=2D3748&sideNums=2D3748&currStreakLabel=1E3A8A&sideLabels=2D3748&dates=2D3748" alt="GitHub Streak" />
+    </div>
+  </div>
+  
+  <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; margin: 2rem 0; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamilarasan-gp&layout=compact&theme=prussian&hide_border=true&bg_color=f0f4f8&title_color=1E3A8A&text_color=2D3748" alt="Top Languages" />
+  </div>
+  
 </div>
 
-## 🏆 Competitive Coding
+---
+
+## 🏆 **LEETCODE MASTERY**
 
 <div align="center">
   
-| Platform | Rating | Top Percentile |
-|----------|--------|----------------|
-| LeetCode | 1850+ | Top 5% |
-| CodeChef | 4★ | Top 10% |
-| CodeForces | Specialist | Top 15% |
-
+  <div style="background: linear-gradient(145deg, #ff9a56, #ff6b35); border-radius: 20px; padding: 2rem; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+    <img src="https://leetcard.jacoblin.cool/thamilarasangp?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+  </div>
+  
 </div>
 
-## 🌐 Digital Presence
+---
+
+## 📈 **CONTRIBUTION HEATMAP**
 
 <div align="center">
   
-[![Developer Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thamilarasan.dev)
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thamilarasangp)
-[![LinkedIn Network](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamilarasan-gp)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thamilarasan-gp)
-
+  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 20px; padding: 2rem; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thamilarasan-gp&theme=github-compact&bg_color=667eea&color=ffffff&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 15px;" />
+  </div>
+  
 </div>
 
-## 💬 Developer Mantra
+---
+
+## 🌐 **CONNECT WITH ME**
 
 <div align="center">
   
-> "First solve the problem, then write the code."  
-> "The best error message is the one that never shows up."  
-> "Clean code always looks like it was written by someone who cares."  
-
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 2rem 0;">
+    <a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/" style="display: inline-block; background: linear-gradient(145deg, #0077b5, #005885); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
+      LinkedIn
+    </a>
+    <a href="https://leetcode.com/u/thamilarasangp/" style="display: inline-block; background: linear-gradient(145deg, #ffa116, #cc8114); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
+      LeetCode
+    </a>
+    <a href="https://www.codechef.com/users/sece_mcs166" style="display: inline-block; background: linear-gradient(145deg, #5b4638, #4a3a2e); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
+      CodeChef
+    </a>
+    <a href="https://www.hackerrank.com/varshinimuruges1" style="display: inline-block; background: linear-gradient(145deg, #2ec866, #25a054); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
+      HackerRank
+    </a>
+    <a href="https://www.instagram.com/varshini11_11/" style="display: inline-block; background: linear-gradient(145deg, #e4405f, #b73248); color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;">
+      Instagram
+    </a>
+  </div>
+  
 </div>
+
+---
+
+## 📄 **DOCUMENTS & RESOURCES**
 
 <div align="center">
   
-![Neon Divider](https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/neon-divider.svg)
-
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 2rem 0;">
+    <a href="https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link" style="display: inline-block; background: linear-gradient(145deg, #ff5722, #cc4518); color: white; padding: 15px 30px; border-radius: 15px; text-decoration: none; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+      📄 Resume
+    </a>
+    <a href="https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link" style="display: inline-block; background: linear-gradient(145deg, #4caf50, #3d8b40); color: white; padding: 15px 30px; border-radius: 15px; text-decoration: none; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+      🏆 Certificates
+    </a>
+  </div>
+  
 </div>
+
+---
+
+## 💭 **DAILY INSPIRATION**
 
 <div align="center">
   
-```diff
-! Let's build something extraordinary together. Reach out for collaborations!
-```
+  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 20px; padding: 2rem; margin: 2rem 0; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Random Dev Quote" style="border-radius: 15px;" />
+  </div>
+  
+</div>
 
+---
+
+<div align="center">
+  
+  <div style="background: linear-gradient(145deg, #f0f4f8, #d6e3f0); border-radius: 15px; padding: 1rem; margin: 2rem 0; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+    <img src="https://komarev.com/ghpvc/?username=Thamilarasan-gp&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </div>
+  
+  <div style="background: linear-gradient(145deg, #667eea, #764ba2); border-radius: 15px; padding: 1.5rem; margin: 2rem 0; box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;">
+    <h3 style="color: white; margin: 0;">⭐ Made with ❤️ by Thamilarasan GP</h3>
+    <p style="color: #f0f4f8; margin: 0.5rem 0 0 0;">Let's build something amazing together!</p>
+  </div>
+  
 </div>
