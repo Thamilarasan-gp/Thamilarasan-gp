@@ -1,123 +1,38 @@
-# ✨ Thamilarasan GP | Elite Full-Stack Architect
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamilarasan!;" />
+</h1>
 
-```diff
-+-------------------------------------------------------------------------------+
-|   𝕯𝖊𝖘𝖎𝖌𝖓-𝖔𝖗𝖎𝖊𝖓𝖙𝖊𝖉 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 | 𝕿𝖊𝖈𝖍 𝖈𝖔𝖓𝖓𝖔𝖎𝖘𝖘𝖊𝖚𝖗 | 𝕷𝖚𝖝𝖚𝖗𝖞 𝖈𝖔𝖉𝖊 𝖆𝖗𝖙𝖎𝖘𝖆𝖓   |
-+-------------------------------------------------------------------------------+
-```
+<h3 align="center">Passionate Information Technology Student | Code Explorer | Web Wizard</h3>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini11113&label=Profile%20views&color=0e75b6&style=flat" alt="Thamilarasan" /> </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/luxury-divider.png" width="100%"/>
-</div>
+- 🔭 I’m currently working on [Spot Parking and Saver System](https://github.com/ParkEasy-App/SPBS)
 
-## 🎩 Professional Profile
+- 🌱 I’m currently learning ** JavaScript, ReactJS, MERN stack development**
 
-```elegant
-class Developer {
-  constructor(
-    public name: "Thamilarasan GP",
-    public title: "Senior Full-Stack Architect",
-    public specialties: ["Enterprise Solutions", "FinTech Systems", "AI Integrations"],
-    public architecture: ["Microservices", "Serverless", "JAMstack"],
-    public philosophy: "Code should be as elegant as a Savile Row suit"
-  ) {}
-  
-  currentEngagements(): string[] {
-    return [
-      "Building next-gen banking infrastructure",
-      "Designing AI-powered analytics dashboards",
-      "Mentoring rising developers"
-    ];
-  }
-}
-```
+- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link](https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link)
 
-## 💎 Premium Tech Collection
+- 📝 I regularly write articles on [DSA](DSA)
 
-<div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%); padding: 2rem; border-radius: 12px;">
+- 💬 Ask me about **Leetcode problem solving**
 
-### **Core Technologies**
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+- 📫 How to reach me ****
 
-### **Design Systems**
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link](https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link)
 
-### **Cloud Architecture**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+- ⚡ Fun fact **Did you know? I write code faster than I serve a killer table tennis shot!**
 
-</div>
-
-## 🏛️ Signature Projects
-
-<div align="center">
-
-| Project | Stack | Description | Status |
-|---------|-------|-------------|--------|
-| **Nexus Banking Suite** | React, Node, MongoDB | Next-gen digital banking platform | 🏆 Award Winning |
-| **Aurora AI Dashboard** | Next.js, TensorFlow | Enterprise AI analytics interface | 🔥 Trending |
-| **Opulent CMS** | Gatsby, GraphQL | Luxury brand content management | ✨ Exclusive |
-
-</div>
-
-## 📈 Elite Performance Metrics
-
-<div align="center">
-  
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#f8f9fa', 'edgeLabelBackground':'#fff', 'tertiaryColor': '#e9ecef'}}}%%
-pie showData
-    title Code Distribution
-    "Architecture Design" : 30
-    "Core Logic" : 25
-    "UI/UX Implementation" : 20
-    "Testing" : 15
-    "Documentation" : 10
-```
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/luxury-contribution.png" width="80%"/>
-</div>
-
-## 🏆 Distinguished Achievements
-
-<div align="center" style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
-
-🏅 **Microsoft Certified: Azure Solutions Architect Expert**  
-🏅 **AWS Certified Developer - Professional**  
-🏅 **Google Cloud Professional Data Engineer**  
-🏅 **Top 1% Stack Overflow Contributor**  
-
-</div>
-
-## 🌐 Exclusive Networks
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamilarasan-gp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamilarasan-gp)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thamilarasan.design)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thamilarasan@elite.dev)
-
-</div>
-
-## ✍️ Architectural Philosophy
-
-<blockquote style="border-left: 4px solid #6c757d; padding-left: 1rem; font-style: italic; color: #495057;">
-  "In the world of software architecture, I strive to create solutions that embody the timeless elegance of a Swiss watch - precise, beautiful, and built to last. Every line of code is a brushstroke in a larger masterpiece, where performance meets artistry."
-</blockquote>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Thamilarasan-gp/Thamilarasan-gp/master/assets/luxury-signature.png" width="60%"/>
-</div>
-
-<div align="center" style="margin-top: 2rem; color: #6c757d; font-size: 0.9rem;">
-  Crafted with excellence from Tamil Nadu, India
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thamilarasan-gp" height="30" width="40" /></a>
+<a href="https://codesandbox.com/varshinimurugesan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="varshinimurugesan5" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/varshini11_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/varshini11_11/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/sece_mcs166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sece_mcs166" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/varshinimuruges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/varshinimuruges1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/thamilarasangp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/varshini11113/" height="30" width="40" /></a>
+<a href="https://discord.gg/VARSHINI M#9202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VARSHINI M#9202" height="30" width="40" /></a>
+</p>
+<h3 align="left">My Leetcode Performance</h3>
+<p><img align="center" src="https://leetcard.jacoblin.cool/thamilarasangp?ext=heatmap" alt="varshini11113" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
