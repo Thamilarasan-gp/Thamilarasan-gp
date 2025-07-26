@@ -1,38 +1,74 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamilarasan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thamilarasan+G P;Building+Innovative+Tech+for+Safer+Mines;Full+Stack+Developer+%7C+DSA+Specialist" alt="Header" />
 </h1>
 
-<h3 align="center">Passionate Information Technology Student | Code Explorer | Web Wizard</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini11113&label=Profile%20views&color=0e75b6&style=flat" alt="Thamilarasan" /> </p>
+<div align="center">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/thamilarasangp?theme=dark&font=Roboto&ext=contest,heatmap)
+  
+  ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Thamilarasan-gp&theme=github-dark&hide_border=true&area=true&custom_title=My%20Development%20Trajectory)
+  
+</div>
 
-- 🔭 I’m currently working on [Spot Parking and Saver System](https://github.com/ParkEasy-App/SPBS)
+## 🏆 Coding Milestones
 
-- 🌱 I’m currently learning ** JavaScript, ReactJS, MERN stack development**
+<div align="center">
+  
+  | Platform | Achievements |
+  |----------|--------------|
+  | **LeetCode** | ![Problems Solved](https://img.shields.io/badge/Solved-300%2B%20Problems-FFA116?logo=leetcode) <br> ![Contest Rank](https://img.shields.io/badge/Contest%20Rank-Top%2010%25-FFA116) <br> ![Streak](https://img.shields.io/badge/Current%20Streak-50%2B%20Days-FFA116) |
+  | **GitHub** | ![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen) <br> ![PRs](https://img.shields.io/badge/Pull%20Requests-30%2B-blue) <br> ![Repos](https://img.shields.io/badge/Public%20Repos-15%2B-orange) |
+  
+</div>
 
-- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link](https://drive.google.com/drive/folders/1UmnDyIaOctcNBt2-SMWkSTBZBcJgH5db?usp=drive_link)
+## 🔥 Daily Coding Pulse
 
-- 📝 I regularly write articles on [DSA](DSA)
+<!--START_SECTION:activity-->
+1. 🏆 Solved [LeetCode Hard Problem #42](https://leetcode.com/problems/trapping-rain-water/) - Optimal O(n) solution
+2. 💻 Pushed major updates to [ParkEasy-App/SPBS](https://github.com/ParkEasy-App/SPBS)
+3. 🚀 Merged PR #15 for responsive UI improvements
+4. 📚 Studying system design concepts (Load Balancers)
+<!--END_SECTION:activity-->
 
-- 💬 Ask me about **Leetcode problem solving**
+## 🛠️ Core Competencies
 
-- 📫 How to reach me ****
+### 🧠 Problem Solving
+![C++](https://img.shields.io/badge/C%2B%2B-Expert-00599C?logo=c%2B%2B&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-00B4D8?logo=thealgorithms)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Advanced-0096C7)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link](https://drive.google.com/file/d/1-zxa-JWj3HcK3QCUc_Qmo9WMD-bnEBV7/view?usp=drive_link)
+### 🌐 Full Stack Development
+![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?logo=mongodb&logoColor=white)
 
-- ⚡ Fun fact **Did you know? I write code faster than I serve a killer table tennis shot!**
+## 📊 GitHub Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thamilarasan-gp" height="30" width="40" /></a>
-<a href="https://codesandbox.com/varshinimurugesan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="varshinimurugesan5" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/varshini11_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/varshini11_11/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sece_mcs166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sece_mcs166" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/varshinimuruges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/varshinimuruges1" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/thamilarasangp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/varshini11113/" height="30" width="40" /></a>
-<a href="https://discord.gg/VARSHINI M#9202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VARSHINI M#9202" height="30" width="40" /></a>
+<div align="center">
+  
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thamilarasan-gp&theme=github_dark)
+  
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamilarasan-gp&layout=compact&theme=vision-friendly-dark&hide=html,css" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=github_dark&include_all_commits=true" />
+  
+</div>
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Highlights |
+|---------|-------------|------------|------------|
+| **[SPBS](https://github.com/ParkEasy-App/SPBS)** | Smart Parking Booking System | MERN Stack | 50+ commits, 5 contributors |
+| **[DSA Solutions](https://github.com/Thamilarasan-gp/LeetCode-Solutions)** | Curated problem solutions | C++/Python | 150+ solutions |
+| **[Mine Safety](https://github.com/Thamilarasan-gp/Mine-Safety)** | Hazard detection system | Python, IoT | Real-time analytics |
+
+## 📫 Let's Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://leetcode.com/u/thamilarasangp/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" height="28"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://github.com/Thamilarasan-gp"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="28"/></a>
 </p>
-<h3 align="left">My Leetcode Performance</h3>
-<p><img align="center" src="https://leetcard.jacoblin.cool/thamilarasangp?ext=heatmap" alt="varshini11113" /></p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <em>"First solve the problem. Then write the code." - John Johnson</em>
+</p>
