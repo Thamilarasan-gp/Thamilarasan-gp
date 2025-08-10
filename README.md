@@ -1,7 +1,24 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="[https://your-banner-image-link.com/banner.png](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)" alt="Banner" width="100%" />
+</p>
+
+<!-- Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thamilarasan+GP;Building+Innovative+Tech+for+Safer+Mines;Full+Stack+Developer+%7C+DSA+Specialist" alt="Header" />
 </h1>
 
+<!-- About Me -->
+## 📌 About Me
+- 💻 **Full Stack Developer** passionate about solving real-world problems  
+- 🧠 **DSA Specialist** with a focus on algorithm optimization  
+- ☁️ Enthusiast in **Cloud Computing (AWS, Docker, DevOps)**  
+- 📈 Currently improving my **competitive programming** and **system design** skills  
+- 🌱 Always learning, always building
+
+---
+
+<!-- Coding Stats -->
 <div align="center">
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/thamilarasangp?theme=dark&font=Roboto&ext=contest,heatmap)
@@ -9,6 +26,8 @@
   ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Thamilarasan-gp&theme=github-dark&hide_border=true&area=true&custom_title=My%20Development%20Trajectory)
   
 </div>
+
+---
 
 ## 🏆 Coding Milestones
 
@@ -21,19 +40,39 @@
   
 </div>
 
+---
 
+## 🛠️ Tech Stack
 
-## 🛠️ Core Competencies
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-### 🧠 Problem Solving
-![C++](https://img.shields.io/badge/C%2B%2B-Expert-00599C?logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-00B4D8?logo=thealgorithms)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Advanced-0096C7)
-
-### 🌐 Full Stack Development
-![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?logo=mongodb&logoColor=white)
+---
 
 ## 📊 GitHub Analytics
 
@@ -45,6 +84,8 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=github_dark&include_all_commits=true" />
   
 </div>
+
+---
 
 ## 📫 Let's Collaborate
 <p align="center">
