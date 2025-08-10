@@ -107,5 +107,5 @@
 </p>
 
 <p align="center">
-  <em>"First solve the problem. Then write the code." - John Johnson</em>
+  <em>"Talk is cheap. Show me the code" - Linus Torvalds</em>
 </p>
