@@ -21,14 +21,7 @@
   
 </div>
 
-## 🔥 Daily Coding Pulse
 
-<!--START_SECTION:activity-->
-1. 🏆 Solved [LeetCode Hard Problem #42](https://leetcode.com/problems/trapping-rain-water/) - Optimal O(n) solution
-2. 💻 Pushed major updates to [ParkEasy-App/SPBS](https://github.com/ParkEasy-App/SPBS)
-3. 🚀 Merged PR #15 for responsive UI improvements
-4. 📚 Studying system design concepts (Load Balancers)
-<!--END_SECTION:activity-->
 
 ## 🛠️ Core Competencies
 
@@ -52,14 +45,6 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Thamilarasan-gp&show_icons=true&theme=github_dark&include_all_commits=true" />
   
 </div>
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Highlights |
-|---------|-------------|------------|------------|
-| **[SPBS](https://github.com/ParkEasy-App/SPBS)** | Smart Parking Booking System | MERN Stack | 50+ commits, 5 contributors |
-| **[DSA Solutions](https://github.com/Thamilarasan-gp/LeetCode-Solutions)** | Curated problem solutions | C++/Python | 150+ solutions |
-| **[Mine Safety](https://github.com/Thamilarasan-gp/Mine-Safety)** | Hazard detection system | Python, IoT | Real-time analytics |
 
 ## 📫 Let's Collaborate
 <p align="center">
