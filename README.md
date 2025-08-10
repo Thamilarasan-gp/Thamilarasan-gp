@@ -9,7 +9,7 @@
 </h1>
 
 <!-- About Me -->
-## 📌 About Me
+## About Me
 - **Full Stack Developer** passionate about solving real-world problems  
 - **DSA Specialist** with a focus on algorithm optimization  
 - Enthusiast in **Cloud Computing (AWS, Docker, DevOps)**  
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 Coding Milestones
+## Coding Milestones
 
 <table align="center" width="1000">
   <tr>
@@ -53,7 +53,7 @@
 </table>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -85,7 +85,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -98,7 +98,7 @@
 
 ---
 
-## 📫 Let's Collaborate
+## Let's Collaborate
 <p align="center">
   <a href="https://www.linkedin.com/in/thamilarasan-gp-343958281/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://leetcode.com/u/thamilarasangp/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" height="28"/></a>
