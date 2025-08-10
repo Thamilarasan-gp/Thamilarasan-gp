@@ -107,5 +107,5 @@
 </p>
 
 <p align="center">
-  <em>"Talk is cheap. Show me the code" - Linus Torvalds</em>
+  <em>Innovation happens when crazy minds collide — let’s build the future, together !</em>
 </p>
