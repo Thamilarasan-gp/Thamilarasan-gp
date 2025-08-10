@@ -36,7 +36,7 @@
     <td align="left" width="60%">
       <h3>LeetCode</h3>
       <p>
-        <img src="https://img.shields.io/badge/Solved-300%2B%20Problems-FFA116?logo=leetcode" alt="Problems Solved" /><br />
+        <img src="https://img.shields.io/badge/Solved-250%2B%20Problems-FFA116?logo=leetcode" alt="Problems Solved" /><br />
         <img src="https://img.shields.io/badge/Contest%20Rank-Top%2010%25-FFA116" alt="Contest Rank" /><br />
         <img src="https://img.shields.io/badge/Current%20Streak-50%2B%20Days-FFA116" alt="Streak" />
       </p>
@@ -44,9 +44,9 @@
     <td align="right" width="60%">
       <h3>GitHub</h3>
       <p>
-        <img src="https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen" alt="Commits" /><br />
-        <img src="https://img.shields.io/badge/Pull%20Requests-30%2B-blue" alt="PRs" /><br />
-        <img src="https://img.shields.io/badge/Public%20Repos-15%2B-orange" alt="Repos" />
+        <img src="https://img.shields.io/badge/Total%20Commits-350%2B-brightgreen" alt="Commits" /><br />
+        <img src="https://img.shields.io/badge/Pull%20Requests-20%2B-blue" alt="PRs" /><br />
+        <img src="https://img.shields.io/badge/Public%20Repos-30%2B-orange" alt="Repos" />
       </p>
     </td>
   </tr>
