@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://talentgrid.io/wp-content/uploads/2022/06/github-social.png" alt="Banner" width="100%" />
+  <img src="https://img.freepik.com/premium-photo/detailed-illustration-work-from-home-background_1016086-7474.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thamilarasan+GP;Full+Stack+Developer;Problem+Solver+%7C+Innovator" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=FF4500&center=true&vCenter=true&width=800&lines=Thamilarasan+GP;Full+Stack+Developer;Problem+Solver+%7C+Innovator&background=000000&center=true" alt="Header" />
 </h1>
 
 <!-- About Me -->
