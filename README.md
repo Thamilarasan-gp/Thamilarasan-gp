@@ -5,7 +5,7 @@
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thamilarasan+GP;Building+Innovative+Tech+for+Safer+Mines;Full+Stack+Developer+%7C+DSA+Specialist" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thamilarasan+GP;Full+Stack+Developer;Problem+Solver+%7C+Innovator" alt="Header" />
 </h1>
 
 <!-- About Me -->
