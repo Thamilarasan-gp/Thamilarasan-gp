@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-banner-image-link.com/banner.png](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)" alt="Banner" width="100%" />
+  <img src="https://talentgrid.io/wp-content/uploads/2022/06/github-social.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Typing Intro -->
