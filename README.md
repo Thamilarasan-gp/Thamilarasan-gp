@@ -10,11 +10,11 @@
 
 <!-- About Me -->
 ## 📌 About Me
-- 💻 **Full Stack Developer** passionate about solving real-world problems  
-- 🧠 **DSA Specialist** with a focus on algorithm optimization  
-- ☁️ Enthusiast in **Cloud Computing (AWS, Docker, DevOps)**  
-- 📈 Currently improving my **competitive programming** and **system design** skills  
-- 🌱 Always learning, always building
+- **Full Stack Developer** passionate about solving real-world problems  
+- **DSA Specialist** with a focus on algorithm optimization  
+- Enthusiast in **Cloud Computing (AWS, Docker, DevOps)**  
+- Currently improving my **competitive programming** and **system design** skills  
+- Always learning, always building
 
 ---
 
